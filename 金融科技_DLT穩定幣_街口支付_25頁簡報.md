@@ -19,7 +19,7 @@
 
 **台灣：全家點數換幣：** Fa 點可免手續費兌換幣託（BitoPro）的 8 種加密貨幣，包含 USDT、USDC 兩種穩定幣；單筆最低 3,500 點，提領與交易須完成實名驗證。
 
-**日本對照：PayPay × Binance Japan：** PayPay 持有 Binance Japan 40% 股權，PayPay 餘額可即時入金、出金到幣安帳戶，用來買賣加密資產，但不是在店家用幣付款。
+**日本：PayPay × Binance Japan：** PayPay 持有 Binance Japan 40% 股權，PayPay 餘額可即時入金、出金到幣安帳戶，用來買賣加密資產，但不是在店家用幣付款。
 
 **小結：** 台灣人最常碰到穩定幣的地方是「換點數」和「投資」，不是「付款」。
 
